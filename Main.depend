@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1473292764 source:c:\users\alumno\desktop\tp-1-calculadora-master\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+
+1473216536 c:\users\alumno\desktop\tp-1-calculadora-master\funciones.h
+
+1473293035 source:c:\users\alumno\desktop\tp-1-calculadora-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+	<math.h>
+
+1473214897 source:e:\m\utn\clase 4\tp-1-calculadora-master\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<ctype.h>
+	<math.h>
+
+1473216535 e:\m\utn\clase 4\tp-1-calculadora-master\funciones.h
+
+1473215397 source:e:\m\utn\clase 4\tp-1-calculadora-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+	<math.h>
+
+1473296485 source:c:\users\alumno\desktop\tp1 - calculadora final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1473294990 c:\users\alumno\desktop\tp1 - calculadora final\funciones.h
+
+1473296218 source:c:\users\alumno\desktop\tp1 - calculadora final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1473435601 source:c:\users\pc\desktop\m\m utn\tp1 - calculadora final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
+1473434918 c:\users\pc\desktop\m\m utn\tp1 - calculadora final\funciones.h
+
+1473435373 source:c:\users\pc\desktop\m\m utn\tp1 - calculadora final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	"funciones.h"
+
